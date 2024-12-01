@@ -39,13 +39,14 @@ Defining an effective data structure in a dashboard is important, incorporating 
 
 ### Main Page
 
-This dashboard analyses manufacturing and inventory operations, the dashboard is made to have an app-like navigational interface. The main page includes leads to two areas namely Production Overview and Inventory Overview. Each then breakdown details and KPIs on their own page afterward.
+This dashboard analyses manufacturing and inventory operations, the dashboard is made to have an app-like navigational interface. The main page includes leads to three areas namely Production Overview and Inventory Overview and Production Category Analysis. Each then breakdown details and KPIs on their own page afterward.
 
-![Main_page](https://github.com/user-attachments/assets/2cf71eb4-6182-4d59-86b0-d3aa7313fe97)
+<img width="1024" alt="Main Page" src="https://github.com/user-attachments/assets/2cf71eb4-6182-4d59-86b0-d3aa7313fe97">
 
 ### Production Overview
 
-<img width="1024" alt="Production Overview Page" src="https://raw.githubusercontent.com/ritik8801/Data-Analysis-of-Bicycle-Manufacturing-Company-Using-Python-SQL-and-PowerBI/main/Dashboard%20Screenshots%20and%20Features/Production%20Overview%20Page.png">
+<img width="1024" alt="Production Overview Page" src="https://github.com/user-attachments/assets/9b9dd220-5850-432b-af68-ffa45b7ecd06">
+
 
 The dashboard is made according to the fiscal year terms, a custom date table was created using DAX, to automatically generate Fiscal year segregations. An assumption is made that the fiscal year starts on October 1st and ends on September 30th.  
 
