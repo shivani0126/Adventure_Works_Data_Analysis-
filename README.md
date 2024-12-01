@@ -52,7 +52,7 @@ The dashboard is made according to the fiscal year terms, a custom date table wa
 
 This page gives information about the manufacturing overview of the company, Measures were created in Power BI in order to have custom KPIs. All the charts and KPIs are described below: -
 
-<img width="1024" alt="Production Overview KPI" src="https://raw.githubusercontent.com/ritik8801/Data-Analysis-of-Bicycle-Manufacturing-Company-Using-Python-SQL-and-PowerBI/main/Dashboard%20Screenshots%20and%20Features/Production%20Overview%20KPI.png">
+<img width="1024" alt="Production Overview KPI" src="https://github.com/user-attachments/assets/8eb161d9-377f-4795-ad1a-263344a37b35">
 
 ### Charts on the page
 
