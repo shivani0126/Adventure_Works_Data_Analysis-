@@ -13,7 +13,8 @@ This analysis focuses on the Manufacturing and Inventory part of the data. Micro
 
 Defining an effective data structure in a dashboard is important, incorporating a star schema model gives an efficient design and makes the data refresh faster. The image below shows the tables used in the process:-
 
-<img width="1024" alt="DataModel" src="<img width="620" alt="DataModel" src="https://github.com/user-attachments/assets/680666bf-360d-4929-b400-1425aa61c7a0">
+<img width="620" alt="DataModel" src="https://github.com/user-attachments/assets/8c01945f-b234-496e-bcb6-c438f12a57e1">
+
 
 
 ### Tables used in the model: -
