@@ -2,7 +2,7 @@
  
 ## Overview
 
-This project goes through the Production and Inventory Analysis of the Microsoft AdventureWorks Database. Adventure Works is a fictional bicycle manufacturing company, this database contains standard transactions data from an Enterprise Resource Planning System. It contains data from the following scenarios of the company: Human Resources, Product Management, Manufacturing, Purchasing, Inventory, Sales, and Admin. 
+This project goes through the Production and Inventory Analysis of the Microsoft AdventureWorks Database. Adventure Works is a fictional bicycle manufacturing company, this database contains standard transactions data from an Enterprise Resource Planning System. It contains data from the following scenarios of the company: Human Resources, Product Management, Manufacturing, Purchasing, Inventory, Sales, and Admin. The objective of this project is to create an end-to-end sales analytic report based on AdventureWorks database. Which is an online transaction processing (OLAP) database sample based on a fictitious multinational bicycle manufacturing company named AdventureWorks.
 This analysis focuses on the Manufacturing and Inventory part of the data. Microsoft Power BI has been used to create an interactive dashboard while pulling data from SQL Server.
 
 ## Data Source
@@ -13,7 +13,8 @@ This analysis focuses on the Manufacturing and Inventory part of the data. Micro
 
 Defining an effective data structure in a dashboard is important, incorporating a star schema model gives an efficient design and makes the data refresh faster. The image below shows the tables used in the process:-
 
-<img width="1024" alt="DataModel" src="https://raw.githubusercontent.com/ritik8801/Data-Analysis-of-Bicycle-Manufacturing-Company-Using-Python-SQL-and-PowerBI/main/Dashboard%20Screenshots%20and%20Features/DataModel.png">
+<img width="1024" alt="DataModel" src="<img width="620" alt="DataModel" src="https://github.com/user-attachments/assets/680666bf-360d-4929-b400-1425aa61c7a0">
+
 
 ### Tables used in the model: -
 
